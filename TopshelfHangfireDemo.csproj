@@ -8,7 +8,7 @@
   <ItemGroup>
     <PackageReference Include="Hangfire.AspNetCore" Version="1.7.3" />
     <PackageReference Include="Hangfire.SqlServer" Version="1.7.3" />
-    <PackageReference Include="Microsoft.Owin" Version="4.0.1" />
+    <PackageReference Include="Microsoft.Owin" Version="4.1.1" />
     <PackageReference Include="Microsoft.Owin.Hosting" Version="4.0.1" />
     <PackageReference Include="Owin" Version="1.0.0" />
     <PackageReference Include="Topshelf" Version="4.2.0" />
